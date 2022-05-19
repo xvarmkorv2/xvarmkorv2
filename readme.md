@@ -15,8 +15,7 @@
 </table>
 </p>
 
-![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
+![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![PYTHON](https://img.shields.io/badge/Python-2C2D72?style=for-the-badge&logo=python&logoColor=white) (a little i guess)
 **Roblox:** [@xvarmkorv2](https://www.roblox.com/users/810205422/profile) • **Discord:** xVarmkorv2#9278
 
 (Not for hire or commission.)
