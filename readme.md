@@ -14,7 +14,7 @@
   </tr>
 </table>
 </p>
-![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=https://luau-lang.org/assets/images/luau-88.png&logoColor=white) 
+![LUAU](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=https://luau-lang.org/assets/images/luau-88.png&logoColor=white) 
 ![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![PYTHON](https://img.shields.io/badge/Python-2C2D72?style=for-the-badge&logo=python&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/Javascript-2C2D72?style=for-the-badge&logo=python&logoColor=white)
 
 **Roblox:** [@xvarmkorv2](https://www.roblox.com/users/810205422/profile) • **Discord:** xVarmkorv2#9278
