@@ -1,5 +1,5 @@
 <h2 align="center">Stats</h2>
-<a href="https://github.com/Expertcoderz">
+<a href="https://github.com/xvarmkorv2">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=xvarmkorv2" alt="Profile Views Count">
   </p>
@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td align="center" style="padding=0;width=100%;">
-      <img src="https://github-readme-stats.vercel.app/api/?username=xvarmkorv2&title_color=00fff2&text_color=00fff2&show_icons=true&bg_color=00000000&icon_color=00fff2&count_private=true"/>
+      <img src="https://github-readme-stats.vercel.app/api/?username=xvarmkorv2&title_color=00fff2&text_color=00fff2&show_icons=true&bg_color=00000000&icon_color=00fff2&count_private=true&hide_title=true"/>
     </td>
   </tr>
 </table>
