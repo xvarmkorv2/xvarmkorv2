@@ -20,7 +20,7 @@
 **Roblox:** [@xvarmkorv2](https://www.roblox.com/users/810205422/profile) • **Discord:** xVarmkorv2#9278
 <a href="https://www.roblox.com/users/810205422/profile" alt="roblox account">
   <img src="https://img.shields.io/badge/Roblox-@xvarmkorv2-2C2D72?style=for-the-badge&logo=roblox&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Discord-xVarmkorv2%#9278-2C2D72?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-xVarmkorv2-2C2D72?style=for-the-badge&logo=discord&logoColor=white" />
 <a href="https://www.reddit.com/r/Varmkorv_Tva/" alt="Subreddit">
   <img src="https://img.shields.io/reddit/subreddit-subscribers/Varmkorv_Tva?style=social" /></a>
 
