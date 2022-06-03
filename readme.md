@@ -22,6 +22,6 @@
 <a href="https://discord.com/users/469977493299003412" alt="discord">
 <img src="https://img.shields.io/badge/Discord-xVarmkorv2%239278-2C2D72?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://www.reddit.com/r/Varmkorv_Tva/" alt="Subreddit">
-  <img src="https://img.shields.io/reddit/subreddit-subscribers/Varmkorv_Tva?style=social"/></a>
+  <img src="https://img.shields.io/reddit/subreddit-subscribers/Varmkorv_Tva?&style=for-the-badge"/></a>
 
 (Not for hire or commission.)
