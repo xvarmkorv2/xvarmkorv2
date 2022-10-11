@@ -1,10 +1,3 @@
-<h2 align="center">Stats</h2>
-<a href="https://github.com/xvarmkorv2">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=xvarmkorv2" alt="Profile Views Count">
-  </p>
-</a>
-
 <p align="center">
 <table>
   <tr>
