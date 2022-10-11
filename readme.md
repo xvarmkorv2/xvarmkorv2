@@ -1,11 +1,5 @@
 <p align="center">
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=100%;">
-      <img src="https://github-readme-stats.vercel.app/api/?username=xvarmkorv2&title_color=00fff2&text_color=00fff2&show_icons=true&bg_color=00000000&icon_color=00fff2&count_private=true&hide_title=true"/>
-    </td>
-  </tr>
-</table>
+ <img src="https://github-readme-stats.vercel.app/api/?username=xvarmkorv2&title_color=00fff2&text_color=00fff2&show_icons=true&bg_color=00000000&icon_color=00fff2&count_private=true&hide_title=true"/>
 </p>
  
  # Languages 
