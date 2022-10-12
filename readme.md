@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/HTML-2C2D72?style=for-the-badge&logo=html5&logoColor=white"/></a>
  <a href="https://www.w3.org/TR/CSS/#css" alt="website">
   <img src="https://img.shields.io/badge/CSS-2C2D72?style=for-the-badge&logo=css3&logoColor=white"/></a>
-![CSS](https://img.shields.io/badge/CSS-2C2D72?style=for-the-badge&logo=css&logoColor=white) 
 
 # Contacts
 
