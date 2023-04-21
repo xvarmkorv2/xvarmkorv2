@@ -31,5 +31,5 @@
 <a href="https://www.reddit.com/r/Varmkorv_Tva/" alt="Subreddit">
   <img src="https://img.shields.io/reddit/subreddit-subscribers/Varmkorv_Tva?color=2C2D72&logo=reddit&logoColor=white&style=for-the-badge"/></a>
 <a rel="me" href="https://masto.nyc/@xvarmkorv2">
-  <img src="https://img.shields.io/badge/Mastodon-2C2D72?style=for-the-badge&logo=mastodon&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Mastodon-@xvarmkorv2@masto.nyc-2C2D72?style=for-the-badge&logo=roblox&logoColor=white"/>"/></a>
 (Not for hire or commission.)
